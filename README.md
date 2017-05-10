@@ -1,2 +1,2 @@
 # AureliaNewsFeed
-Learning how to make an Aurelia News feed add
+Learning how to make an Aurelia News feed app
