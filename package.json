@@ -1,0 +1,19 @@
+{
+  "name": "newsfeed",
+  "version": "1.0.0",
+  "description": "just a news feed",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Linnracious/AureliaNewsFeed.git"
+  },
+  "author": "Henry Chen",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Linnracious/AureliaNewsFeed/issues"
+  },
+  "homepage": "https://github.com/Linnracious/AureliaNewsFeed#readme"
+}
